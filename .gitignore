@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+
+# Credentials
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Data and logs
+logs/
+data/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model artifacts
+*.pkl
+*.joblib
+*.parquet
